@@ -62,6 +62,7 @@
 	</dependencies>
 
 	<build>
+		<finalName>comment-reviews-downloader</finalName>
 		<plugins>
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
